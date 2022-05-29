@@ -1,7 +1,7 @@
 # Finanças - React Native
 
 ## Criando app finanças passo a passo com React Native
-https://www.youtube.com/watch?v=REulDg3JzzQ&list=WL&index=4&t=241s
+https://youtu.be/REulDg3JzzQ
 
 ### Instalar o Expo CLI:
 sudo npm install -g expo-cli
