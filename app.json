@@ -1,10 +1,18 @@
 {
   "expo": {
-    "name": "financas",
+    "name": "Finanças",
     "slug": "financas",
     "version": "1.0.0",
     "assetBundlePatterns": [
       "**/*"
-    ]
+    ],
+    "ios": {
+      "bundleIdentifier": "com.marcoscrocci.financas",
+      "buildNumber": "1.0.0"
+    },
+    "android": {
+      "package": "com.marcoscrocci.financas",
+      "versionCode": 1
+    }
   }
 }

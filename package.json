@@ -19,7 +19,8 @@
     "react-native": "0.68.2",
     "react-native-web": "0.17.7",
     "webpack-dev-server": "~3.11.0",
-    "react-native-reanimated": "~2.8.0"
+    "react-native-reanimated": "~2.8.0",
+    "expo-updates": "~0.13.2"
   },
   "devDependencies": {
     "@babel/core": "^7.12.9"
